@@ -11,7 +11,7 @@ desde los cuales podremos lanzar tiradas, ver el total de puntos, un resumen de 
 actual, etc..
 
 Tanto servidor como cliente se lanzan en procesos diferentes para permitir un uso simultáneo
-de los mismos, posibilidando así, una ejecución multi proceso con diferentes clientes conectados
+de los mismos, posibilitando así, una ejecución multi proceso con diferentes clientes conectados 
 a un mismo servidor.
 
 Para facilitar la puesta en marcha de la aplicación se proporcionan varios ejecutables '.jar' con
