@@ -14,7 +14,7 @@ Tanto servidor como cliente se lanzan en procesos diferentes para permitir un us
 de los mismos, posibilitando así, una ejecución multi proceso con diferentes clientes conectados 
 a un mismo servidor.
 
-Para facilitar la puesta en marcha de la aplicación se proporcionan varios ejecutables '.jar' con
+Para facilitar la puesta en marcha de la aplicación se proporcionan varios ejecutables .jar con
 el proyecto construido y listo para ser ejecutado de manera gráfica.
 
 ## Requisitos
